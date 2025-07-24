@@ -1,80 +1,82 @@
-# 👩‍💻 KUNGUMAPRIYAA M
+# 👋 Hey there, I'm Kungumapriyaa M
 
-🎓 2nd Year B.Tech | Artificial Intelligence and Data Science  
-📍 Sri Eshwar College of Engineering  
-🔭 Aspiring SDE | AI Enthusiast (CV | NLP | Multimodal Intelligence)  
-
----
-
-## 🚀 About Me
-
-I'm a passionate tech explorer, currently diving deep into **DSA**, **AI**, **Computer Vision**, and **NLP**. From building intelligent systems to solving real-world challenges, I bring code to life with purpose.
+🎓 I’m a 2nd-year B.Tech student in **Artificial Intelligence and Data Science** at **Sri Eshwar College of Engineering**.  
+💻 I’m passionate about solving real-world problems and aiming for a career as a **Software Development Engineer (SDE)** — with keen interests in **AI/ML**, **Computer Vision**, and **Multimodal Intelligence**.
 
 ---
 
-## 🧠 Core Interests
+## 🧠 Tech Stack
 
-- 🧩 Data Structures & Algorithms  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧠 Deep Learning | NLP | Computer Vision  
-- 🕵️‍♀️ Multimodal AI & Human-Centric Systems  
-
----
-
-## 💡 Projects That Matter
-
-- 🔍 **AI-Based Multimodal Suspect Profiling & Detection System**  
-  Facial recognition, voice profiling, and behavior analysis.
-
-- ⏳ **Expiry Tracker**  
-  Scan product covers and get notified before expiry — built with OCR & MongoDB.
-
-- 👶 **Niramaya: Mother & Baby Care Portal**  
-  Smart vaccination, appointment, and emergency services platform.
-
----
-
-## 🏆 Achievements
-
-- 🥇 Finalist – **SAP All India Hackathon**  
-- 🥈 Finalist – **VISAI International Project Expo 2025**  
-- 🌟 Top 120 from 1500+ ideas – **AIWOS Ideathon**  
-- 📝 Winner of multiple inter-college **Paper Presentation Competitions**
-
----
-
-## 🌐 Languages I Know
-
-Tamil 🇮🇳 | English 🇬🇧 | Telugu 🇮🇳 | Malayalam 🇮🇳 | Hindi 🇮🇳
-
----
-
-## 🛠️ Tech Stack & Tools
+### 💬 Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-000000?style=flat&logo=face-recognition&logoColor=white)
-
-**Tools:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/KungumapriyaaMKP)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/KungumapriyaaMKP/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)  
-[![Portfolio](https://img.shields.io/badge/Bento.Me-FF5A5F?style=flat&logo=data:image/svg+xml;base64,...)](https://bento.me/KUNGUMAPRIYAA)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-*🌟 "Engineering intelligence into solutions that speak human."*
+## 🏆 Achievements
+
+- 🥇 Finalist – **SAP All India Hackathon**
+- 🧠 Top 120 Ideas – **AIWOS Challenge** (from 1500+ entries)
+- 🌍 Finalist – **VISAI 2025 International Project Expo**
+- 🥈 Runner-Up – Intercollege Frontend Website Competition
+- 🏅 Winner – Multiple Paper Presentation Competitions
+
+---
+
+## 💡 Featured Projects
+
+- 🔍 **AI-Based Multimodal Suspect Detection**  
+  Combines face recognition, voice matching, GPS, and behavior analysis to identify suspects intelligently.
+
+- 🧾 **Expiry Date Tracker**  
+  Web app using OCR to scan expiry dates on products and notify before they expire.
+
+- 👶 **Niramaya – Baby & Mother Healthcare App**  
+  Tracks baby vaccinations, enables appointment booking, ambulance service, and online prescriptions.
+
+- ⚖️ **Portable Cargo Weighing System (OBWS)**  
+  Designed a prototype to measure logistics goods weight in real time without weighbridges.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=react&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KungumapriyaaMKP&theme=react&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+- [GitHub](https://github.com/KungumapriyaaMKP)
+- [LeetCode](https://leetcode.com/KungumapriyaaMKP/)
+- [LinkedIn](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/kungumaprhukh)
+- [Bento](https://bento.me/KUNGUMAPRIYAA)
+
+---
+
+## 🌍 Languages Known
+
+Fluent in **Tamil, English, Telugu, Malayalam** and can read/write **Hindi**.
+
+---
+
+> “Curious mind, code-driven heart — building toward a future where software meets meaningful impact.”
