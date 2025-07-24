@@ -22,8 +22,8 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 
 
 ## 🏆 Highlights  
-- 🥇 Finalist — **SAP All India Hackathon**  
-- 🏅 Finalist — **Visai International Project Expo 2025**
+- 🥇 Finalist - **SAP All India Hackathon**  
+- 🏅 Finalist - **Visai International Project Expo 2025**
   
 ---
 
@@ -84,6 +84,5 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kungumapriyaamk1)
 [![SkillRack](https://img.shields.io/badge/SkillRack-9B59B6?style=for-the-badge)](https://www.skillrack.com/faces/resume.xhtml?id=514449&key=8f4e2881e245f3050c2ca9930a692a0dc7cfb6db)
 
-
 ---
-
+##Open to internships, collaborations, and opportunities to grow alongside impactful tech teams.##
