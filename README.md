@@ -1,7 +1,8 @@
 # 👩‍💻Hi there! It's me Kungumapriyaa M
+*Blending algorithms, APIs, and Code scripts 📈*
 
 AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
-I have a deep interest in AI Multimodal systems, currently exploring the fusion of NLP, Computer Vision.
+I have a deep interest in AI Multimodal systems, currently exploring the fusion of NLP and Computer Vision.
 
 ---
 ## 🌐 Connect With Me
@@ -50,15 +51,15 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 
 ## 📊 GitHub Stats
 
-![Kungumapriyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=default)
+![Kungumapriyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=default)
 
 ---
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?ext=heatmap&theme=light&animation=true&hide=recent)
+![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?ext=heatmap&theme=unicorn&animation=true&hide=recent)
 
 
 ---
