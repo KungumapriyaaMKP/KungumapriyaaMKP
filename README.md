@@ -4,6 +4,14 @@ AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision,
 I have a deep interest in AI Multimodal systems, currently exploring the fusion of NLP, Computer Vision.
 
 ---
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KungumapriyaaMKP)  
+[![Bento](https://img.shields.io/badge/Bento.me-4B2A99?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/KUNGUMAPRIYAA)  
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
+
+---
 
 ## 🏆 Highlights  
 - 🥇 Finalist — **SAP All India Hackathon**  
@@ -40,13 +48,11 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KungumapriyaaMKP&theme=default)
 
-![](https://komarev.com/ghpvc/?username=KungumapriyaaMKP&label=Profile+Views&color=0e75b6&style=flat)
-
 ---
 
 ## 📈 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?theme=light&font=Roboto&ext=activity)](https://leetcode.com/KungumapriyaaMKP)
+![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?ext=contest)
 
 ---
 
