@@ -1,42 +1,17 @@
-# 👩‍💻 KUNGUMAPRIYAA M
+# 👩‍💻Hi there! Kungumapriyaa M
 
-Hi, I'm a second-year B.Tech student in **Artificial Intelligence and Data Science** at **Sri Eshwar College of Engineering**.  
-With a strong foundation in **Data Structures & Algorithms**, and a passion for **AI, Computer Vision, NLP, and Deep Learning**,  
-I’m actively building real-world solutions that blend **innovation** with **impact**.
-
----
-
-## 🚀 Career Goals  
-Aspiring **Software Development Engineer (SDE)** with a vision to innovate at the intersection of **AI and problem-solving**.
-
----
-
-## 🧠 Domains of Interest  
-- Artificial Intelligence  
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Natural Language Processing  
-- DSA & Algorithms  
+AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
+I have a deep interest in AI Multimodal systems, currently exploring the fusion of NLP, Computer Vision.
 
 ---
 
 ## 🏆 Highlights  
 - 🥇 Finalist — **SAP All India Hackathon**  
 - 🏅 Finalist — **Visai International Project Expo 2025**  
-- 🌟 Top 120 Ideas — **AIWOS (AI With Open Source)** out of 1500+ entries  
-- 🏆 Winner of multiple inter-college **paper presentations**  
 
 ---
 
-## 🔥 Featured Projects  
-- **AI-Based Multimodal Suspect Profiling & Detection System**  
-- **Niramamya** — Mother & Baby Healthcare Website  
-- **Expiry Tracker** — Smart Expiry Detection via CV  
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -65,6 +40,8 @@ Aspiring **Software Development Engineer (SDE)** with a vision to innovate at th
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KungumapriyaaMKP&theme=default)
 
+![](https://komarev.com/ghpvc/?username=KungumapriyaaMKP&label=Profile+Views&color=0e75b6&style=flat)
+
 ---
 
 ## 📈 LeetCode Stats
@@ -82,6 +59,3 @@ Aspiring **Software Development Engineer (SDE)** with a vision to innovate at th
 
 ---
 
-## 📟 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=KungumapriyaaMKP&label=Profile%20Views&color=0e75b6&style=flat)
