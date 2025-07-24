@@ -85,4 +85,10 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 [![SkillRack](https://img.shields.io/badge/SkillRack-9B59B6?style=for-the-badge)](https://www.skillrack.com/faces/resume.xhtml?id=514449&key=8f4e2881e245f3050c2ca9930a692a0dc7cfb6db)
 
 ---
-**Open to internships, collaborations, and opportunities to grow alongside impactful tech teams.**
+
+💼 **Open to Opportunities**  
+🌟 Open to **internships**, **collaborations**, and opportunities to **grow alongside impactful tech teams**.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Let's+Innovate+Together!;Open+to+Impactful+Tech+Teams;Always+Ready+to+Learn+%26+Grow!" alt="Typing SVG" />
+</p>
