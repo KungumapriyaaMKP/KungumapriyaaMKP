@@ -6,10 +6,24 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 ---
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KungumapriyaaMKP)
-[![Bento](https://img.shields.io/badge/Bento.me-4B2A99?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/KUNGUMAPRIYAA)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kungumapriyaa-m-197027328/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KungumapriyaaMKP">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@kungumapriyaamkp5">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/kungumapriyaa">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+  <a href="mailto:kungumapriyaamkp5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
@@ -50,8 +64,6 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 ![Kungumapriyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KungumapriyaaMKP&theme=default)
 
 ---
 
