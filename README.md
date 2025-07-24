@@ -86,7 +86,8 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 ---
 
-💼 **Open to Opportunities**  
+## 💼 **Open to Opportunities**  
+
 🌟 Open to **internships**, **collaborations**, and opportunities to **grow alongside impactful tech teams**.
 
 <p align="center">
