@@ -58,7 +58,8 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 
 ## 📈 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?ext=contest)
+[![Kungumapriyaa's LeetCode Stats](https://leetcard.jacoblin.cool/kungumapriyaa?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/kungumapriyaa)
+
 
 ---
 
