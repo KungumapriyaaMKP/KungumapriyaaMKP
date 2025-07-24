@@ -6,8 +6,8 @@
 
 
 
-AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
-I have a deep interest in AI Multimodal systems, currently exploring the fusion of NLP and Computer Vision.
+**AI Undergrad** With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
+I have a deep interest in **AI Multimodal systems**, currently exploring the fusion of **NLP and Computer Vision(OCR)**.
 
 ---
 ## 🌐 Connect With Me
