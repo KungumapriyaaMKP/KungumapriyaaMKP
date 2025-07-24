@@ -27,7 +27,7 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
   
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
 ### 🧑‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -77,7 +77,7 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 ---
 
-## 🌐 Coding profiles
+## 🌐 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kungumapriyaa/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
