@@ -6,9 +6,9 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 ---
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KungumapriyaaMKP)  
-[![Bento](https://img.shields.io/badge/Bento.me-4B2A99?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/KUNGUMAPRIYAA)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KungumapriyaaMKP)
+[![Bento](https://img.shields.io/badge/Bento.me-4B2A99?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/KUNGUMAPRIYAA)
 [![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
 
 ---
