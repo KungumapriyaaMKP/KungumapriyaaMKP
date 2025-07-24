@@ -1,5 +1,9 @@
 # 👩‍💻Hi there! It's me Kungumapriyaa M
-<sub>*Blending algorithms, APIs, and Code scripts 📈*</sub>
+<p align="center">
+  <i><b><span style="font-size:24px; color:#0a66c2;">
+    Blending algorithms, APIs, and Code scripts 📈
+  </span></b></i>
+</p>
 
 
 AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
