@@ -1,4 +1,4 @@
-# 👩‍💻Hi there! Kungumapriyaa M
+# 👩‍💻Hi there! It's me Kungumapriyaa M
 
 AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
 I have a deep interest in AI Multimodal systems, currently exploring the fusion of NLP, Computer Vision.
@@ -6,23 +6,12 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 ---
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kungumapriyaa-m-197027328/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KungumapriyaaMKP">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@kungumapriyaamkp5">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/kungumapriyaa">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-  <a href="mailto:kungumapriyaamkp5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kungumapriyaamkp5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KungumapriyaaMKP)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kungumapriyaamkp5)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kungumapriyaa)
+[![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/kungumapriyaa)
 
 
 ---
@@ -73,12 +62,13 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Coding profiles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/KungumapriyaaMKP)  
-[![Bento](https://img.shields.io/badge/Bento.me-4B2A99?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/KUNGUMAPRIYAA)  
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kungumapriyaa/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kungumapriyaamk1)
+[![SkillRack](https://img.shields.io/badge/SkillRack-9B59B6?style=for-the-badge)](https://www.skillrack.com/faces/resume.xhtml?id=514449&key=8f4e2881e245f3050c2ca9930a692a0dc7cfb6db)
+
 
 ---
 
