@@ -1,9 +1,9 @@
 # 👩‍💻Hi there! It's me Kungumapriyaa M
-<p align="center">
+
   <i><b><span style="font-size:24px; color:#0a66c2;">
     Blending algorithms, APIs, and Code scripts 📈
   </span></b></i>
-</p>
+
 
 
 AI UNDERGRAD With a strong interest and a passion for **AI, ML, Computer Vision, NLP, and Deep Learning**,  
@@ -20,12 +20,11 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 [![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/kungumapriyaa)
 
 
----
 
 ## 🏆 Highlights  
 - 🥇 Finalist — **SAP All India Hackathon**  
-- 🏅 Finalist — **Visai International Project Expo 2025**  
-
+- 🏅 Finalist — **Visai International Project Expo 2025**
+  
 ---
 
 ## 🛠️ Tech stack
@@ -39,21 +38,15 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
----
-
 ### 📊 Libraries / Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffdb58?style=for-the-badge&logo=python&logoColor=black)
 ![DeepFace](https://img.shields.io/badge/DeepFace-black?style=for-the-badge&logo=deepnote&logoColor=white)
 
----
-
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,8 +55,6 @@ I have a deep interest in AI Multimodal systems, currently exploring the fusion 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
 
 ### 🔌 Boards / Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-00979D?style=for-the-badge&logo=arduino&logoColor=white)
