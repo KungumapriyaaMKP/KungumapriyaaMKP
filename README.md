@@ -1,4 +1,4 @@
-# 👩‍💻Hi there! It's me Kungumapriyaa M
+# Hi there! It's me Kungumapriyaa M 👩‍💻
 
   <i><b><span style="font-size:24px; color:#0a66c2;">
     Blending algorithms, APIs, and Code scripts 📈
@@ -10,7 +10,7 @@
 I have a deep interest in **AI Multimodal systems**, currently exploring the fusion of **NLP and Computer Vision(OCR)**.
 
 ---
-## 🌐 Connect With Me
+##  Connect With Me 🌐
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kungumapriyaamkp5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kungumapriyaa-m-197027328/)
@@ -22,14 +22,14 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 
 ## 🏆 Highlights  
-- 🥇 Finalist - **SAP All India Hackathon**  
-- 🏅 Finalist - **Visai International Project Expo 2025**
+- Finalist - **SAP Hackfest All India Hackathon**  
+-  Finalist - **Visai International Project Expo 2025**
   
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🧑‍💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
@@ -38,17 +38,17 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 📊 Libraries / Frameworks
+### Libraries / Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-ffdb58?style=for-the-badge&logo=python&logoColor=black)
 ![DeepFace](https://img.shields.io/badge/DeepFace-black?style=for-the-badge&logo=deepnote&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -56,13 +56,13 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 🔌 Boards / Embedded
+###  Boards / Embedded🔌
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Kungumapriyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=radical)
@@ -70,14 +70,14 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 ---
 
-## 📈 LeetCode Stats
+##  LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?theme=tokyonight&ext=contest)](https://leetcode.com/u/KungumapriyaaMKP/)
 
 
 ---
 
-## 🌐 Coding Profiles
+##  Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kungumapriyaa/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kungumaprhukh/)
@@ -86,9 +86,9 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 ---
 
-## 💼 **Open to Opportunities**  
+## **Open to Opportunities**  
 
-🌟 Open to **internships**, **collaborations**, and opportunities to **grow alongside impactful tech teams**.
+Open to **internships**, **collaborations**, and opportunities to **grow alongside impactful tech teams**.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Let's+Innovate+Together!;Open+to+Impactful+Tech+Teams;Always+Ready+to+Learn+%26+Grow!" alt="Typing SVG" />
