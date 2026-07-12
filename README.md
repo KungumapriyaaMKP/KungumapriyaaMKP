@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:39E09B&height=220&section=header&text=Hi%20there,%20I'm%20Kungumapriyaa%20M&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blending%20algorithms,%20APIs%20%26%20code%20into%20intelligent%20systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:6C5CE7,100:39E09B&height=230&section=header&text=Hi%20there,%20I'm%20Kungumapriyaa%20M%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Blending%20algorithms,%20APIs%20%26%20code%20into%20intelligent%20systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://kungumapriyaa.netlify.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%2F+Computer+Vision+Undergrad;Exploring+Multimodal+NLP+%2B+OCR+Systems;Finalist+%40+SAP+Hackfest+%26+Visai+Expo+2025;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39E09B&center=true&vCenter=true&width=650&lines=AI+%2F+ML+%2F+Computer+Vision+Undergrad;Exploring+Multimodal+NLP+%2B+OCR+Systems;Finalist+%40+SAP+Hackfest+%26+Visai+Expo+2025;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
 
 </div>
-
----
 
 ### 👩‍💻 About Me
 
@@ -23,7 +23,13 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 - 💼 **Open to internships, collaborations & impactful tech teams**
 - 🌐 Portfolio → **[kungumapriyaa.netlify.app](https://kungumapriyaa.netlify.app/)**
 
----
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
 
 ### 🌐 Connect With Me
 
@@ -37,9 +43,19 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 <a href="https://bento.me/kungumapriyaa"><img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
 
 ### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,mongodb,git,github,vscode,arduino&theme=dark" alt="Skill Icons"/>
+
+</div>
+
+<details>
+<summary><b>📌 Full breakdown (click to expand)</b></summary>
+<br/>
 
 **Languages**
 
@@ -87,7 +103,9 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -102,7 +120,31 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KungumapriyaaMKP&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
 
 ### 🔥 LeetCode Stats
 
@@ -112,7 +154,7 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
 
 ### 💻 Coding Profiles
 
@@ -123,8 +165,6 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=514449&key=8f4e2881e245f3050c2ca9930a692a0dc7cfb6db"><img src="https://img.shields.io/badge/SkillRack-9B59B6?style=for-the-badge" /></a>
 </p>
 
----
-
 <div align="center">
 
 ### 🚀 Open to Opportunities
@@ -133,8 +173,10 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 
 <a href="https://kungumapriyaa.netlify.app/"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-0A66C2?style=for-the-badge" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=KungumapriyaaMKP&style=for-the-badge&color=0A66C2&label=Profile+Views" />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39E09B,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://profile-counter.glitch.me/KungumapriyaaMKP/count.svg" alt="Visitor Count"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39E09B,50:6C5CE7,100:0A66C2&height=120&section=footer" width="100%"/>
 
 </div>
