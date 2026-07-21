@@ -6,13 +6,28 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge&labelColor=000000" alt="Portfolio"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39E09B&center=true&vCenter=true&width=650&lines=AI+%2F+ML+%2F+Computer+Vision+Undergrad;Exploring+Multimodal+NLP+%2B+OCR+Systems;Finalist+%40+SAP+Hackfest+%26+Visai+Expo+2025;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39E09B&center=true&vCenter=true&width=650&lines=kungumapriyaa%40github+~+%25+whoami;AI+%2F+ML+%2F+Computer+Vision+Undergrad;Exploring+Multimodal+NLP+%2B+OCR+Systems;Finalist+%40+SAP+Hackfest+%26+Visai+Expo+2025;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-### 👩‍💻 About Me
+<br/>
+
+### `kungumapriyaa@github ~ % whoami`
+
+```text
+┌─[ kungumapriyaa@github ]────────────────────────────────────┐
+│                                                               │
+│   OS          : AI / ML / Computer Vision Undergrad          │
+│   Focus       : Multimodal NLP + Computer Vision (OCR)       │
+│   Stack       : Python · C++ · Java · JavaScript · SQL       │
+│   Tools       : VSCode · Jupyter · Colab · Git · IntelliJ    │
+│   Highlights  : Finalist — SAP Hackfest All India Hackathon  │
+│               : Finalist — Visai Intl. Project Expo 2025     │
+│   Status      : Open to internships, collabs & tech teams    │
+│   Portfolio   : kungumapriyaa.netlify.app                    │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
 
 I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP, and Deep Learning**. Right now I'm deep in **multimodal systems** — fusing **NLP and Computer Vision (OCR)** to build things that read *and* understand.
 
@@ -31,21 +46,46 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
 
-### 🌐 Connect With Me
+### `kungumapriyaa@github ~ % ./contributions.sh`
 
-<p align="left">
-<a href="mailto:kungumapriyaamkp5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kungumapriyaa-m-197027328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/KungumapriyaaMKP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://medium.com/@kungumapriyaamkp5"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://kungumapriyaa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linktr.ee/kungumapriyaa"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-<a href="https://bento.me/kungumapriyaa"><img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KungumapriyaaMKP&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KungumapriyaaMKP&theme=react-dark&hide_border=true" width="100%"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
 
-### 🛠️ Tech Stack
+### `kungumapriyaa@github ~ % ./snake.sh --animate`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
+
+### `kungumapriyaa@github ~ % cat trophies.log`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KungumapriyaaMKP&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
+
+### `kungumapriyaa@github ~ % cat stack.txt`
 
 <div align="center">
 
@@ -107,56 +147,13 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KungumapriyaaMKP&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KungumapriyaaMKP&theme=react-dark&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KungumapriyaaMKP/KungumapriyaaMKP/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KungumapriyaaMKP&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
-
-### 🔥 LeetCode Stats
+### `kungumapriyaa@github ~ % leetcode --stats`
 
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/KungumapriyaaMKP?theme=dark&ext=contest)](https://leetcode.com/u/KungumapriyaaMKP/)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39E09B,100:0A66C2&height=3&section=header" width="100%"/>
-
-### 💻 Coding Profiles
 
 <p align="left">
 <a href="https://leetcode.com/u/KungumapriyaaMKP/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -165,9 +162,23 @@ I'm an **AI undergrad** with a strong pull toward **AI, ML, Computer Vision, NLP
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=514449&key=8f4e2881e245f3050c2ca9930a692a0dc7cfb6db"><img src="https://img.shields.io/badge/SkillRack-9B59B6?style=for-the-badge" /></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:39E09B&height=3&section=header" width="100%"/>
+
+### `kungumapriyaa@github ~ % contact --list`
+
+<p align="left">
+<a href="mailto:kungumapriyaamkp5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kungumapriyaa-m-197027328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/KungumapriyaaMKP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://medium.com/@kungumapriyaamkp5"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://kungumapriyaa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linktr.ee/kungumapriyaa"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="https://bento.me/kungumapriyaa"><img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white" /></a>
+</p>
+
 <div align="center">
 
-### 🚀 Open to Opportunities
+### `kungumapriyaa@github ~ % echo $STATUS`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Let's+Innovate+Together!;Open+to+Impactful+Tech+Teams;Always+Ready+to+Learn+%26+Grow!" alt="Typing SVG" />
 
