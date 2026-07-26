@@ -80,8 +80,9 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 ##  GitHub Stats
 
-![Kungumapriyaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KungumapriyaaMKP&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KungumapriyaaMKP&layout=compact&theme=radical&cache_seconds=1800)
 
 
 ---
