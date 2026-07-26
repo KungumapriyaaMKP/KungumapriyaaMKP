@@ -23,14 +23,28 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 
 Your one-stop destination to explore my work, achievements, technical skills, certifications, and project showcases.
 
+<h2 align="center">🚀 My Digital Portfolio</h2>
+
 <p align="center">
-  <a href="https://kungumapriyaa.netlify.app">
-    <img src="https://img.shields.io/badge/🌐_kungumapriyaa.netlify.app-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Explore+My+Projects;Hackathons;Research;Certifications;Technical+Blogs;AI+%26+Software+Development"/>
+
 </p>
 
 <p align="center">
-  <b>Building intelligent solutions with AI, Machine Learning, and Full-Stack Development.</b>
+
+<a href="https://kungumapriyaa.netlify.app">
+
+<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+⭐ Built with passion for AI, Machine Learning, Software Engineering, and Innovation ⭐
+
 </p>
 
 ## 🏆 Highlights  
