@@ -18,7 +18,7 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kungumapriyaamkp5)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kungumapriyaa)
 [![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/kungumapriyaa)
-[![Topmate](https://img.shields.io/badge/Topmate-121212?style=for-the-badge&logo=topmate&logoColor=white)](https://topmate.io/kungumapriyaa_m)
+[![Topmate](https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logoColor=white)](https://topmate.io/kungumapriyaa_m)
 
 ## Featured Portfolio
 
