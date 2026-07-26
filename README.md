@@ -20,32 +20,41 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 [![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/kungumapriyaa)
 
 
-<h2 align="center">🌐 Featured Portfolio</h2>
+## 🌐 Portfolio
 
-<p align="center">
-  <b>
-    Discover my projects, hackathons, research, certifications,
-    technical blogs, and development journey.
-  </b>
-</p>
+<table>
+<tr>
+<td width="70%">
 
-<p align="center">
-  <a href="https://kungumapriyaa.netlify.app">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
-  </a>
-</p>
+### 🚀 My Digital Portfolio
 
-<p align="center">
-  <a href="https://kungumapriyaa.netlify.app">
-    <img src="https://img.shields.io/badge/AI_Projects-20+-6C63FF?style=flat-square"/>
-  </a>
-  <a href="https://kungumapriyaa.netlify.app">
-    <img src="https://img.shields.io/badge/Hackathons-10+-FF6B6B?style=flat-square"/>
-  </a>
-  <a href="https://kungumapriyaa.netlify.app">
-    <img src="https://img.shields.io/badge/Research-Active-00C853?style=flat-square"/>
-  </a>
-</p>
+Everything about me in one place.
+
+✔ AI & ML Projects
+
+✔ Full Stack Applications
+
+✔ Hackathons & Competitions
+
+✔ Certifications
+
+✔ Technical Skills
+
+✔ Resume
+
+</td>
+
+<td align="center">
+
+<a href="https://kungumapriyaa.netlify.app">
+
+<img src="https://img.shields.io/badge/Visit_Website-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+</td>
+</tr>
+</table>
 
 ## 🏆 Highlights  
 - Winner - **Codethon**
