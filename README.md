@@ -19,32 +19,32 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/kungumapriyaa)
 [![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/kungumapriyaa)
 
-## Featured Portfolio
 
-Your one-stop destination to explore my work, achievements, technical skills, certifications, and project showcases.
-
-<h2 align="center">🚀 My Digital Portfolio</h2>
+<h2 align="center">🌐 Featured Portfolio</h2>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Explore+My+Projects;Hackathons;Research;Certifications;Technical+Blogs;AI+%26+Software+Development"/>
-
+  <b>
+    Discover my projects, hackathons, research, certifications,
+    technical blogs, and development journey.
+  </b>
 </p>
 
 <p align="center">
-
-<a href="https://kungumapriyaa.netlify.app">
-
-<img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0078FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
-</a>
-
+  <a href="https://kungumapriyaa.netlify.app">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827"/>
+  </a>
 </p>
 
 <p align="center">
-
-⭐ Built with passion for AI, Machine Learning, Software Engineering, and Innovation ⭐
-
+  <a href="https://kungumapriyaa.netlify.app">
+    <img src="https://img.shields.io/badge/AI_Projects-20+-6C63FF?style=flat-square"/>
+  </a>
+  <a href="https://kungumapriyaa.netlify.app">
+    <img src="https://img.shields.io/badge/Hackathons-10+-FF6B6B?style=flat-square"/>
+  </a>
+  <a href="https://kungumapriyaa.netlify.app">
+    <img src="https://img.shields.io/badge/Research-Active-00C853?style=flat-square"/>
+  </a>
 </p>
 
 ## 🏆 Highlights  
