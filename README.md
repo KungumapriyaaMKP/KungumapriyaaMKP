@@ -20,7 +20,7 @@ I have a deep interest in **AI Multimodal systems**, currently exploring the fus
 [![Bento](https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/kungumapriyaa)
 
 
-## ⭐ Featured Portfolio
+## Featured Portfolio
 
 Your one-stop destination to explore my work, achievements, technical skills, certifications, and project showcases.
 
@@ -34,7 +34,7 @@ Your one-stop destination to explore my work, achievements, technical skills, ce
   <b>Building intelligent solutions with AI, Machine Learning, and Full-Stack Development.</b>
 </p>
 
-## 🏆 Highlights  
+## Highlights  
 - Winner - **Codethon**
 - 2nd Runner Up - **TN IMPACT**
 - Finalist - **Caterpillar Tech Challenge 2026**
